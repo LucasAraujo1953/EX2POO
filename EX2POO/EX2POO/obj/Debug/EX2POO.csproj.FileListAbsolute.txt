@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\EX2POO\EX2POO\bin\Debug\EX2POO.exe.config
+C:\Users\aluno\source\repos\EX2POO\EX2POO\bin\Debug\EX2POO.exe
+C:\Users\aluno\source\repos\EX2POO\EX2POO\bin\Debug\EX2POO.pdb
+C:\Users\aluno\source\repos\EX2POO\EX2POO\obj\Debug\EX2POO.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\EX2POO\EX2POO\obj\Debug\EX2POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\EX2POO\EX2POO\obj\Debug\EX2POO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\EX2POO\EX2POO\obj\Debug\EX2POO.exe
+C:\Users\aluno\source\repos\EX2POO\EX2POO\obj\Debug\EX2POO.pdb
